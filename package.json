@@ -30,5 +30,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "react app for managing employees",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crispysodium/crispy_userDirectory.git"
+  },
+  "author": "crispysodium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crispysodium/crispy_userDirectory/issues"
+  },
+  "homepage": "https://github.com/crispysodium/crispy_userDirectory#readme"
 }
