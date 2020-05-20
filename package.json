@@ -42,7 +42,7 @@
     "type": "git",
     "url": "git+https://github.com/crispysodium/crispy_userDirectory.git"
   },
-  "author": "",
+  "author": "crispysodium",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/crispysodium/crispy_userDirectory/issues"
